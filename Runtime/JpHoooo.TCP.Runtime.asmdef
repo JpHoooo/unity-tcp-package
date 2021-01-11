@@ -1,0 +1,14 @@
+{
+    "name": "JpHoooo.TCP.Runtime",
+    "rootNamespace": "Jphoooo.Tcp",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

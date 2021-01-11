@@ -2,7 +2,7 @@
 using System.Net.Sockets;
 using UnityEngine.Events;
 
-namespace Kodai100.Tcp
+namespace Jphoooo.Tcp
 {
 
     [System.Serializable]

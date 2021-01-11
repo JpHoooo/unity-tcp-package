@@ -4,7 +4,7 @@ using System.Net.Sockets;
 using System.Text;
 using UnityEngine;
 
-namespace Kodai100.Tcp
+namespace Jphoooo.Tcp
 {
 
     public enum SocketType

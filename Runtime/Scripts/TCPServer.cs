@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;
 
-namespace Kodai100.Tcp
+namespace Jphoooo.Tcp
 {
     
     class TCPServer : IDisposable

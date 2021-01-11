@@ -4,7 +4,7 @@ using UnityEngine;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
-using Kodai100.Tcp;
+using Jphoooo.Tcp;
 
 public class MessageTest : MonoBehaviour
 {

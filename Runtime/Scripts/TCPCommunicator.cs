@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Kodai100.Tcp
+namespace Jphoooo.Tcp
 {
 
     public class TcpCommunicator : IDisposable
