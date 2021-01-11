@@ -1,0 +1,15 @@
+{
+  "name": "com.jphoooo.tcp",
+  "version": "1.0.0",
+  "displayName": "Unity TCP",
+  "description": "this is a TCP development tool",
+  "unity": "2020.2",
+  "keywords": [
+    "Tool",
+    "TCP"
+  ],
+  "author": {
+    "name": "JpHoooo",
+    "email": "jphoooooooo@gmail.com"
+  }
+}
